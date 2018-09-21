@@ -35,3 +35,5 @@ elif a=="v":
     mf()
     v=sqrt(2*E/m) #regner ut farten
     print("Farten er", v, "m/s") #printer farten
+else:
+    print("Du må velge enten E, m eller v. Prøv igjen")
